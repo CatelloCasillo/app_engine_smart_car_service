@@ -1,0 +1,23 @@
+.graph_title{
+    border-top: 4px solid #0072f0;
+    border-bottom: 4px solid #0072f0;
+    font-family: 'Orbitron';
+    font-size: 48px;
+    font-weight: bold;
+    color: #0072f0;
+    text-align: center;
+    width: 64%;
+    height: 75px;
+    background-clip: padding-box;
+    background-color: rgba(217, 217, 217, 0.7);
+    margin-right: 18%;
+    margin-left: 18%;
+    float: left;
+    padding-bottom: 10px;
+    padding-top: 0px;
+}
+
+.empty_div{
+    width: 10px;
+    float: left;
+}

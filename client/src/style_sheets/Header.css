@@ -1,0 +1,38 @@
+#header_img{
+    width: 32%;
+    height: auto;
+    float:left;
+    margin-left: 18%
+}
+
+#header_text{
+    font-family: 'Orbitron';
+    font-size: 48px;
+    font-weight: bold;
+    color: #0072f0;
+    text-align: center;
+}
+.header_title{
+    float:left;
+    height: 273px;
+    width: 32%;
+    margin-right: 17%;
+    background-clip: content-box;
+    background-color:rgba(217, 217, 217, 0.7);
+    border-left: 4px solid #0072f0;
+}
+
+#date_chooser{
+    float:left;
+    background-color:rgba(217, 217, 217, 0.7);
+    margin-top: 40px;
+    margin-left: 10%;
+    
+    width:80%;
+    height: 100px;
+}
+
+.header_element{
+    border-top: 4px solid #0072f0;
+}
+

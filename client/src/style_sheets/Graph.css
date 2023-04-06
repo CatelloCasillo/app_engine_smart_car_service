@@ -1,0 +1,32 @@
+.graph_container{
+    display: block;
+    float:left;
+    width: 32%;
+    height: 400px;
+    background-color:rgba(178, 235, 242, 0.2);
+}
+
+.echart_graph_container{
+    height: 400px !important;
+}
+
+.left_graph_container{
+    width: 33%;
+    padding-left: 13px;
+    background-clip: content-box; 
+}
+
+.series_name{
+    font-weight: 400;
+}
+
+.series_value{
+    display: block;
+    float:right;
+    text-align: right;
+    margin-left: 10%;
+}
+
+#single_process_graph{
+    margin-left: 17%;
+}
